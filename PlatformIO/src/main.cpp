@@ -49,7 +49,7 @@ void setup()
 
   // Let's do it
   WiFi.config(local_IP, gateway, subnet, primaryDNS, secondaryDNS);
-  wl_status_t reply = WiFi.begin("Greypuss", "mrSeal89");
+  wl_status_t reply = WiFi.begin("YourSSID", "YourPassword");
 
   // Log the result
   log_w("Result: %s", wl_status_to_string(reply));
