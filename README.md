@@ -14,7 +14,7 @@ And whilst we're on the subject, Part 3 will be available soon which brings it a
 
 **Still here?** OK, let's get some values on screen, whether that be an integer value or a string, both of which I use in my projects. There are, of course, many routes to Rome and I show two of them here. Quick and dirty? Or slick and maintainable? Your choice!  
 
-We'll get a value onto the screen (from a psuedo-variable in our ESP32 code) and discuss two ways on how to do that. Finally we'll consider whether what we're doing, that is putting the HTML code into our C++ code is the best way of doing this - or is there another way we could explore (in part 3 perhaps)? Oops, spoiler alert! Too late!
+We'll get a value onto the screen (from a pseudo-variable in our ESP32 code) and discuss two ways on how to do that. Finally we'll consider whether what we're doing, that is putting the HTML code into our C++ code is the best way of doing this - or is there another way we could explore (in part 3 perhaps)? Oops, spoiler alert! Too late!
 
 ### Software   
 ► Rob Tillaart's simple DS18b20 library (for a single DS18b20 per μController pin)  
