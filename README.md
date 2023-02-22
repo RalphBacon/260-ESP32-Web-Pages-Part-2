@@ -1,7 +1,8 @@
 # Video #260: ESP32 Web Pages (Part 2)
-Part 2: Expanding on ESP32 Web Pages, getting some values onto the screen
+Part 2: Expanding on ESP32 Web Pages, getting some values onto the screen  
+![Thumbnail-00017 (Phone)](https://user-images.githubusercontent.com/20911308/220645591-43f8bfff-a41b-44cd-ada5-54afe86cdaa4.png)
 
-### Video link: https://youtu.be/TBA
+### Video link: https://youtu.be/7cfeWTsJxcE
 <br>  
 
 [![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/185422574-52a4e7db-c680-4dd2-87be-1f1dd1db6a65.gif "PCBWay - up to 20% Discount on 4 & 6-layer PCBs")](https://pcbway.com/)  
